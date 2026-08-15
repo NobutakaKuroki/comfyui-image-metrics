@@ -1,0 +1,13 @@
+[project]
+name = "comfyui-image-metrics"
+description = "Full-reference image quality metrics for ComfyUI - PSNR, MAE, and SSIM between two images."
+version = "1.0.0"
+license = { file = "LICENSE" }
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/NobutakaKuroki/comfyui-image-metrics"
+
+[tool.comfy]
+PublisherId = "nobutakakuroki"
+DisplayName = "ComfyUI-Image-Metrics"
